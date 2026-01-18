@@ -1,0 +1,5 @@
+{
+  "name": "Special Education Navigator MVP",
+  "description": "State-specific AI assistant for IDEA laws and IEP procedural safeguards with Google Search grounding.",
+  "requestFramePermissions": []
+}
